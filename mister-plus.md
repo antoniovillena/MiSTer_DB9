@@ -196,3 +196,11 @@ Following these steps will enable and test the real time clock, which is used by
 2. Once `rtc` has finished, remove the wifi adapter and power down the MiSTer.
 3. Power the MiSTer back up and ensure the time is correct. (if it isn't you may need to disassemble the MiSTer Plus and ensure the battery is connected to the IO board correctly and has a charge).
 4. You can now re-connect the internet.
+
+### Fan Replacement
+
+If you need replace the fan these are the specs:
+1. 40x40x10mm, 4010
+2. 5V DC
+3. 2 pin XH2.54
+4. Compatible with Noctua NF-A4x10 5V. It's 3pin but in the box it's included a 3pin to 2pin cable.
